@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\German PC\\.nuget\\packages\\": {}
+    "C:\\Users\\rober\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\German PC\\Desktop\\C#\\C2\\C_SHARP_Practicas\\Clase 4 (Sobrecargas)\\ClasesNegocio\\ClasesNegocio.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Documents\\GitHub\\C_SHARP_ALUMNOS\\Clase 4 (Sobrecargas)\\ClasesNegocio\\ClasesNegocio.csproj",
       "projectName": "ClasesNegocio",
-      "projectPath": "C:\\Users\\German PC\\Desktop\\C#\\C2\\C_SHARP_Practicas\\Clase 4 (Sobrecargas)\\ClasesNegocio\\ClasesNegocio.csproj",
-      "packagesPath": "C:\\Users\\German PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\German PC\\Desktop\\C#\\C2\\C_SHARP_Practicas\\Clase 4 (Sobrecargas)\\ClasesNegocio\\obj\\",
+      "projectPath": "C:\\Users\\rober\\Documents\\GitHub\\C_SHARP_ALUMNOS\\Clase 4 (Sobrecargas)\\ClasesNegocio\\ClasesNegocio.csproj",
+      "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rober\\Documents\\GitHub\\C_SHARP_ALUMNOS\\Clase 4 (Sobrecargas)\\ClasesNegocio\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\German PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -231,18 +231,10 @@ namespace ClasesNegocio
         {
             return !(miCelu == miApp);
         }
-
         public static bool operator +(Celular miCelu, App miApp)
         {
             return miCelu.InstalarApp(miApp);
         }
-        #endregion
-
-
-        
-
-
-
-
+        #endregion   
     }
 }
