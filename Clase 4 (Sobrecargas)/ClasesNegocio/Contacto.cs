@@ -10,7 +10,6 @@ namespace ClasesNegocio
     {
         public string nombre;
         public string numero;
-
         public Contacto(string nombre, string numero)
         {
             this.nombre = nombre;

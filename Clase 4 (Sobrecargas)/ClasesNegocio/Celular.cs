@@ -6,9 +6,7 @@ namespace ClasesNegocio
 {
     public class Celular
     {
-
         #region Atributos
-
         private EMarca marca;
         private string modelo;
         private int ram;
@@ -18,14 +16,11 @@ namespace ClasesNegocio
         private List<string> agenda;//Lista Contacto
         private List<string> apps;//Lista App
         #endregion
-
-
         #region Constructores
         public Celular(EMarca marca, string modelo, int ram, double almacenamiento, List<string> agenda):this(marca, modelo, ram,almacenamiento)
         {
             this.Agenda = agenda;
         }
-
         public Celular(EMarca marca, string modelo, int ram, double almacenamiento):this()
         {
             this.Marca = marca;
@@ -35,7 +30,6 @@ namespace ClasesNegocio
             this.Encendido = false;
             this.AlmacenamientoActual = 0;
         }
-
         public Celular()
         {
             this.Apps = new List<string>();
@@ -72,7 +66,14 @@ namespace ClasesNegocio
         public bool Encendido { get => encendido; set => encendido = value; }
         public List<string> Agenda { get => agenda; set => agenda = value; }
         public List<string> Apps { get => apps; set => apps = value; }
-
+        public float OTRA
+        {
+            get
+            {
+                return 123;
+            }
+            //set => value;
+        }
 
         #endregion
 

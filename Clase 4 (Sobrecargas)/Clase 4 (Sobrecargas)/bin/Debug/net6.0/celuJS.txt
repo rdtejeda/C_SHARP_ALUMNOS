@@ -1,0 +1,1 @@
+{"Modelo":"J7","Marca":0,"Ram":4,"Almacenamiento":64,"AlmacenamientoActual":0,"Encendido":false,"Agenda":[],"Apps":[]}

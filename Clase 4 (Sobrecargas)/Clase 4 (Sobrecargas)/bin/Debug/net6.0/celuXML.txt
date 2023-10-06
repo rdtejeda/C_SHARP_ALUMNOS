@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Celular xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Modelo>J7</Modelo>
+  <Marca>Samsung</Marca>
+  <Ram>4</Ram>
+  <Almacenamiento>64</Almacenamiento>
+  <AlmacenamientoActual>0</AlmacenamientoActual>
+  <Encendido>false</Encendido>
+  <Agenda />
+  <Apps />
+</Celular>
